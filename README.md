@@ -11,5 +11,4 @@ This project is based on a dataset provided by Alex the Analyst as part of his Y
 The dataset was used to practice and showcase my skills in data analysis, including data cleaning, formatting, and extracting insights using Microsoft Excel.
 
 - Tutorial Video: Alex the Analyst. (2022). Full Excel Project for Beginners.
-- Available at: https://www.youtube.com/watch?v=video_link.
-
+- Available at:(https://youtu.be/opJgMj1IUrc?si=eKnCuj0C-a56bSa1)
