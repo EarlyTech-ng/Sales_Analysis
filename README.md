@@ -11,6 +11,7 @@
 - [Limitation](limitation)
 - [Reference](reference)
 
+---
 ### Project Overview
 The Bike Buyer Dataset Analysis project aims to explore the relationship between customer demographics and their likelihood to purchase bikes. 
 The dataset includes critical factors such as income, education, and occupation, as well as lifestyle aspects like home ownership, commute distance, and car ownership. 
@@ -22,6 +23,8 @@ This project is based on a dataset provided by Alex the Analyst as part of his Y
 The dataset was used to practice and showcase my skills in data analysis, including data cleaning, formatting, and extracting insights using Microsoft Excel.
 
 - Tutorial Video: Alex the Analyst. (2022). Full Excel Project for Beginners [watch here](https://youtu.be/opJgMj1IUrc?si=eKnCuj0C-a56bSa1)
+  
+![Bike Buyers Dashboard](https://github.com/user-attachments/assets/6a469f6c-5ab2-4f50-9123-99ddf7cbdb31)
 
 ---
 ### Tool
