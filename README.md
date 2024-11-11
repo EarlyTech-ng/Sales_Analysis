@@ -7,7 +7,9 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Results and Findings](#results-and-findings)
+- [Recommendations](recommendations)
 - [Limitation](limitation)
+- [Reference](reference)
 
 ### Project Overview
 The Bike Buyer Dataset Analysis project aims to explore the relationship between customer demographics and their likelihood to purchase bikes. 
@@ -25,8 +27,7 @@ The dataset was used to practice and showcase my skills in data analysis, includ
 ### Tool
 - Microsoft Excel
   - [Download dataset](https://github.com/AlexTheAnalyst/Exc...)
-  - [Recommendations](recommendations)
-  - 
+    
 ---
 ### Data Cleaning and Preparation
 In the data preparation phase, I performed the following tasks: 
@@ -63,3 +64,6 @@ Based on the insights gathered from the bike buyers analysis, here are some reco
 ### Limitation
 During the data cleaning process, I introduced a new column, "Age Bracket," to group customers into specific age ranges. This was done to simplify the analysis of age-related trends and ensure that the data was more interpretable, as analyzing age as a continuous variable could introduce noise and make the results less actionable for business decisions.
 
+---
+### Reference
+Alex the Analyst. (2022). Full Excel Project for Beginners [Video file](https://youtu.be/opJgMj1IUrc?si=eKnCuj0C-a56bSa1)
