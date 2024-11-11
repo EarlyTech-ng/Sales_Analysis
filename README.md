@@ -1,5 +1,14 @@
 # Bike Buyers Analysis
 
+## Table of Content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tool](#tool)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Limitation](limitation)
+
 ### Project Overview
 The Bike Buyer Dataset Analysis project aims to explore the relationship between customer demographics and their likelihood to purchase bikes. 
 The dataset includes critical factors such as income, education, and occupation, as well as lifestyle aspects like home ownership, commute distance, and car ownership. 
@@ -16,8 +25,10 @@ The dataset was used to practice and showcase my skills in data analysis, includ
 ### Tool
 - Microsoft Excel
   - [Download dataset](https://github.com/AlexTheAnalyst/Exc...)
+  - [Recommendations](recommendations)
+  - 
 ---
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 In the data preparation phase, I performed the following tasks: 
 - Removed Duplicates: Identified and removed any duplicate entries.
 - Formatted Data: Standardized the data to ensure consistency, particularly with the "Age Bracket" column.
@@ -31,7 +42,7 @@ In the data preparation phase, I performed the following tasks:
 4. What factor are most correlated with a bike purchased?
 
 ---
-### Results/Findings
+### Results and Findings
 Here are some key insights that I discovered:
 
 1. Income and Purchase Decision: The "Average Income Per Purchase" chart shows that, on average, individuals with higher income are more likely to purchase a bike. Males who purchased bikes tend to have a slightly higher average income than females.
