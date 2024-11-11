@@ -10,12 +10,12 @@ By analyzing these variables, the project seeks to provide data-driven insights 
 This project is based on a dataset provided by Alex the Analyst as part of his YouTube tutorial titled "Full Excel Project for Beginners". 
 The dataset was used to practice and showcase my skills in data analysis, including data cleaning, formatting, and extracting insights using Microsoft Excel.
 
-- Tutorial Video: Alex the Analyst. (2022). Full Excel Project for Beginners [download.here](https://youtu.be/opJgMj1IUrc?si=eKnCuj0C-a56bSa1)
+- Tutorial Video: Alex the Analyst. (2022). Full Excel Project for Beginners [watch here](https://youtu.be/opJgMj1IUrc?si=eKnCuj0C-a56bSa1)
 
 ---
 ### Tool
-Microsoft Excel
-
+- Microsoft Excel
+  - [Download dataset](https://github.com/AlexTheAnalyst/Exc...)
 ---
 ### Data Cleaning/Preparation
 In the data preparation phase, I performed the following tasks: 
