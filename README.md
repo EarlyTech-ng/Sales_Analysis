@@ -31,7 +31,16 @@ In the data preparation phase, I performed the following tasks:
 4. What factor are most correlated with a bike purchased?
 
 ---
-### Result/Findings
+### Results/Findings
+Here are some key insights that I discovered:
+
+1. Income and Purchase Decision: The "Average Income Per Purchase" chart shows that, on average, individuals with higher income are more likely to purchase a bike. Males who purchased bikes tend to have a slightly higher average income than females.
+2. Age Bracket and Bike Purchase: The "Customer Age Bracket" chart indicates that middle-aged customers are the largest group both for those who purchased a bike and those who did not. This suggests that middle-aged individuals are more interested in biking compared to adolescents or older individuals.
+3. Commute Distance and Purchase Decision: The "Customer Commute" line chart shows a trend where both bike purchasers and non-purchasers are spread across various commute distances. However, those who travel shorter distances (0-1 miles) are less likely to purchase a bike than those with longer commutes. The trend remains relatively consistent, with a slight dip in bike purchases as the commute distance increases.
+In summary, the analysis suggests that bike purchase decisions are influenced by income, age, and possibly commute distance. Middle-aged individuals with higher incomes are more likely to purchase bikes, and the dashboard provides segmentation options to explore these trends further.
+
+---
+### Recommendations
 Based on the insights gathered from the bike buyers analysis, here are some recommendations for the business owner:
 
 1. Income-Based Product Segmentation: Since higher-income individuals are more likely to purchase bikes, the business could consider offering premium models or accessories aimed at this group. Additionally, creating a financing option or installment plan could attract lower-income segments who may otherwise be unable to afford a bike.
