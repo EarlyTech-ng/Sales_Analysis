@@ -48,3 +48,7 @@ Based on the insights gathered from the bike buyers analysis, here are some reco
 3. Commute-Friendly Product Positioning: Since customers with longer commute distances are slightly more inclined to purchase bikes, the business could market bikes as an economical and efficient commuting option for people with moderate to long commutes. They could also promote e-bikes for customers who travel longer distances.
 4. Personalized Regional Campaigns: For regions with lower sales, targeted promotions or awareness campaigns could be implemented. For regions with high sales, the business could expand inventory or consider setting up additional stores.
 
+---
+### Limitation
+During the data cleaning process, I introduced a new column, "Age Bracket," to group customers into specific age ranges. This was done to simplify the analysis of age-related trends and ensure that the data was more interpretable, as analyzing age as a continuous variable could introduce noise and make the results less actionable for business decisions.
+
