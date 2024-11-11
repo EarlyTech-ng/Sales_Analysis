@@ -23,3 +23,10 @@ In the data preparation phase, I performed the following tasks:
 - Formatted Data: Standardized the data to ensure consistency, particularly with the "Age Bracket" column.
 - Handled Missing Values: Addressed any missing or inconsistent data to maintain the integrity of the dataset.
 
+---
+### Exploratory Data Analysis
+1. What is the income distribution of customers who purchased bikes compared to those who did not?
+2. Does age influence the likelihood of purchasing a bike?
+3. Do people with shorter or longer commute distances show more interest in buying bikes?
+4. What factor are most correlated with a bike purchased?
+   
