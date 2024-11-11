@@ -10,5 +10,16 @@ By analyzing these variables, the project seeks to provide data-driven insights 
 This project is based on a dataset provided by Alex the Analyst as part of his YouTube tutorial titled "Full Excel Project for Beginners". 
 The dataset was used to practice and showcase my skills in data analysis, including data cleaning, formatting, and extracting insights using Microsoft Excel.
 
-- Tutorial Video: Alex the Analyst. (2022). Full Excel Project for Beginners.
-- Available at:(https://youtu.be/opJgMj1IUrc?si=eKnCuj0C-a56bSa1)
+- Tutorial Video: Alex the Analyst. (2022). Full Excel Project for Beginners [download.here](https://youtu.be/opJgMj1IUrc?si=eKnCuj0C-a56bSa1)
+
+---
+### Tool
+Microsoft Excel
+
+---
+### Data Cleaning/Preparation
+In the data preparation phase, I performed the following tasks: 
+- Removed Duplicates: Identified and removed any duplicate entries.
+- Formatted Data: Standardized the data to ensure consistency, particularly with the "Age Bracket" column.
+- Handled Missing Values: Addressed any missing or inconsistent data to maintain the integrity of the dataset.
+
